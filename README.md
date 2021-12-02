@@ -37,4 +37,4 @@ A continuación se dejarán algunos enlaces para poner en práctica el uso de li
 
 
 
-[img1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trecebits.com%2F2020%2F05%2F28%2Flos-siete-mejores-editores-de-texto-markdown%2F&psig=AOvVaw3YgixOM98RZ_tjBZKIqUoA&ust=1638528409362000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCnqZn4xPQCFQAAAAAdAAAAABAQ
+[img1]: https://www.trecebits.com/wp-content/uploads/2020/05/Markdown-Editores-de-Texto-800x445.jpg
