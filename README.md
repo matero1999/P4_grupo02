@@ -1,6 +1,6 @@
 # P4_Grupo02
 ## Este es nuestro primer archivo README de la asignatura de Programación Avanzada.
- ![MARKDOWN][img1] 
+![MARKDOWN][img1] 
 A continuación estructuraremos el archivo con diferentes encabezados para poner en práctica el lenguaje markdown.
 ---
 ### __*Listas*__
@@ -25,6 +25,7 @@ También podemos hacer listas con distintos niveles añadiendo 4 espacios delant
     - Carlos Herrera Domínguez.
     - Francisco Javier Núñez Cintado.
 
+- - 
 ### __*Links a otras páginas*__
 A continuación se dejarán algunos enlaces para poner en práctica el uso de links con markdown:
 - [Youtube][youtube].
