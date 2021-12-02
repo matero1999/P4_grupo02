@@ -1,6 +1,6 @@
 # P4_Grupo02
 ## Este es nuestro primer archivo README de la asignatura de Programación Avanzada.
-<!-- ![imagen_principal][img1] -->
+ ![MARKDOWN][img1] 
 A continuación estructuraremos el archivo con diferentes encabezados para poner en práctica el lenguaje markdown.
 ---
 ### __*Listas*__
@@ -32,8 +32,9 @@ A continuación se dejarán algunos enlaces para poner en práctica el uso de li
 - [Facebook][facebook].
 
 [youtube]: https://www.youtube.com/
+[twitter]: https://twitter.com/
+[facebook]: https://es-es.facebook.com/
 
 
 
-
-[img1]:
+[img1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trecebits.com%2F2020%2F05%2F28%2Flos-siete-mejores-editores-de-texto-markdown%2F&psig=AOvVaw3YgixOM98RZ_tjBZKIqUoA&ust=1638528409362000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCnqZn4xPQCFQAAAAAdAAAAABAQ
